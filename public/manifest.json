@@ -1,0 +1,17 @@
+{
+  "name": "komo",
+  "short_name": "komo",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F4F7F2",
+  "theme_color": "#5E8B62",
+  "lang": "de",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
